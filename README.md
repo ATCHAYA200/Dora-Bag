@@ -1,6 +1,3 @@
-Certainly! Here's the complete `README.md` code formatted for terminal usage:
-
-```markdown
 # Dora-Pocket
 
 **Dora-Pocket** is a modern e-commerce application designed with React and connected to MongoDB for backend functionalities. This project provides a user-friendly interface for managing products, user authentication, and a dynamic shopping experience.
