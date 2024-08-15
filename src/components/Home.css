@@ -1,0 +1,84 @@
+/* Home.css */
+
+/* Hero Section */
+.hero {
+    background-color: #f8f9fa;
+    padding: 4rem 0;
+    color: #333;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero p {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+  }
+  
+  .hero .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .hero .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
+  /* Feature Highlights */
+  .features {
+    background-color: #f1f3f5;
+  }
+  
+  .feature-box {
+    padding: 2rem;
+    background: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .feature-box i {
+    color: #007bff;
+  }
+  
+  .feature-box h4 {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+  }
+  
+  .feature-box p {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  /* Promotional Banner */
+  .promo-banner {
+    background-color: #007bff;
+    padding: 2rem 0;
+    color: #ffffff;
+  }
+  
+  .promo-banner h3 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .promo-banner p {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .promo-banner .btn-dark {
+    background-color: #343a40;
+    border-color: #343a40;
+  }
+  
+  .promo-banner .btn-dark:hover {
+    background-color: #23272b;
+    border-color: #1d2124;
+  }
+  
