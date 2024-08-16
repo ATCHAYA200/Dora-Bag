@@ -163,7 +163,4 @@ This project can be easily deployed using **GitHub Pages** or other hosting serv
    npm run deploy
    ```
 
-3. **Access Your Site**  
-   Visit: `https://<your-username>.github.io/Dora-Cart/`
-
 Now your repository and project should be clean, structured, and ready for deployment!
