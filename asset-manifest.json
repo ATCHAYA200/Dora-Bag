@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/Dora-Bag/static/css/main.84da9fad.css",
-    "main.js": "/Dora-Bag/static/js/main.b80e2f01.js",
+    "main.css": "/Dora-Bag/static/css/main.f910400d.css",
+    "main.js": "/Dora-Bag/static/js/main.c683b7ad.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Dora-Bag/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/Dora-Bag/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Dora-Bag/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/fontawesome-webfont.eot": "/Dora-Bag/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Dora-Bag/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/Dora-Bag/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Dora-Bag/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Dora-Bag/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Dora-Bag/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/Dora-Bag/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Dora-Bag/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Dora-Bag/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Dora-Bag/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/Dora-Bag/index.html",
-    "main.84da9fad.css.map": "/Dora-Bag/static/css/main.84da9fad.css.map",
-    "main.b80e2f01.js.map": "/Dora-Bag/static/js/main.b80e2f01.js.map"
+    "main.f910400d.css.map": "/Dora-Bag/static/css/main.f910400d.css.map",
+    "main.c683b7ad.js.map": "/Dora-Bag/static/js/main.c683b7ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.84da9fad.css",
-    "static/js/main.b80e2f01.js"
+    "static/css/main.f910400d.css",
+    "static/js/main.c683b7ad.js"
   ]
 }
