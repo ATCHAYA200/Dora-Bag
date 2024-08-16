@@ -1,9 +1,6 @@
-Here's an enhanced and detailed README for your **Dora-Pocket** e-commerce project, with color-coded sections, icons, and clear instructions:
+# 🎒 Dora-Cart
 
-# 🎒 Dora-Pocket
-
-![Dora-Pocket Logo](https://your-logo-url-here)  
-**Dora-Pocket** is a cutting-edge e-commerce application built with React and MongoDB, providing a seamless shopping experience with a modern user interface. It's designed to handle user authentication, product management, and dynamic interactions in a user-friendly manner.
+**Dora-Cart** is a cutting-edge e-commerce application built with React and MongoDB, providing a seamless shopping experience with a modern user interface. It's designed to handle user authentication, product management, and dynamic interactions in a user-friendly manner.
 
 ---
 
@@ -26,7 +23,7 @@ Here's an enhanced and detailed README for your **Dora-Pocket** e-commerce proje
 
 ## 🚀 Getting Started
 
-Follow the steps below to run **Dora-Pocket** on your local machine.
+Follow the steps below to run **Dora-Cart** on your local machine.
 
 ### Prerequisites
 
@@ -51,20 +48,12 @@ Ensure that the following are installed and running on your machine:
    npm install
    ```
 
-3. **Configure Environment Variables**
-
-   Create a `.env` file in the root of your project and configure your MongoDB URL:
-
-   ```bash
-   MONGODB_URL=mongodb://localhost:27017/e-commerce
-   ```
-
-4. **Run the Application**
+3. **Run the Application**
 
    Start the development server:
 
    ```bash
-   npm run dev
+   npm start
    ```
 
    Open your browser and go to `http://localhost:3000` to view the application.
